@@ -8,7 +8,7 @@ body {
   max-width: 800px;
   margin: 20px;
   padding: 20px;
-  background-color: #ffffff;
+  background-color: #fcf8ea;
 }
 a {
   color: #000000;
@@ -56,7 +56,8 @@ hr.level2 {
   height: fit-content;
   font-family: Roboto, sans-serif;
   border: 0px solid black;
-  background-color: #aaaaaa;
+  background-color: #95c03a;
+  color: white;
   border-radius: 5px;
   text-align: center;
   margin: 0;
