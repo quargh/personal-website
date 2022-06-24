@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,700;1,500;1,700&display=swap");
 
 * {
   box-sizing: border-box;
@@ -8,15 +8,15 @@ body {
   padding: 20px;
 }
 .headlines {
-  font-family: "Roboto", sans-serif;
-  font-weight: bold;
+  font-family: Roboto, sans-serif;
+  font-weight: 700;
 }
 .italic {
-  font-family: "Roboto", sans-serif;
+  font-family: Roboto, sans-serif;
   font-style: italic;
 }
 .normal {
-  font-family: "Roboto", sans-serif;
+  font-family: Roboto, sans-serif;
   font-style: normal;
   font-weight: normal;
 }
