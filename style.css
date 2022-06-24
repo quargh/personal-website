@@ -35,6 +35,8 @@ hr.level2 {
   max-width: 100%;
 }
 .keywords {
+  margin-top: 30px;
+  margin-bottom: 30px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -42,10 +44,10 @@ hr.level2 {
 }
 .box {
   width: fit-content;
-  height: 28px;
+  height: fit-content;
   font-family: Roboto, sans-serif;
   border: 0px solid black;
-  background-color: #999999;
+  background-color: #aaaaaa;
   border-radius: 5px;
   text-align: center;
   margin: 0;
