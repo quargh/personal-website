@@ -3,17 +3,17 @@
 
 * {
   box-sizing: border-box;
+  color: #222222;
 }
 body {
   max-width: 800px;
-
   padding: 20px;
   background-color: #fcf8ea;
   margin-left: auto;
   margin-right: auto;
 }
 a {
-  color: #000000;
+  color: #222222;
 }
 .headlines {
   font-family: Roboto, sans-serif;
