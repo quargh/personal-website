@@ -11,7 +11,8 @@ header {
 
 body {
   max-width: 800px;
-  padding: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
   background-color: #fcf8ea;
   margin-left: auto;
   margin-right: auto;
@@ -71,6 +72,7 @@ hr.level2 {
   margin: 0;
   padding: 5px 10px 5px 10px;
 }
+/* Image Resize*/
 .resize {
   max-width: 100%;
   width: auto;
